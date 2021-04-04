@@ -8,7 +8,7 @@ A custom implementation of a Naive Bayes Classifier written from scratch in Pyth
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier):
 
-> In machine learning, naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
+> Dalam Machine learning, pengklasifikasi Bayes naive adalah keluarga pengklasifikasi probabilistik sederhana berdasarkan penerapan teorema Bayes dengan asumsi independensi yang kuat (Naive) di antara fitur-fiturnya..
 
 ## Dataset
 
@@ -32,6 +32,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier):
 Figure 5.9, Page 230
 
 ## How to Run
-Please run with Python 3 or greater.
+Jalankan dengan Python 3 atau yg lainya.
 
 `python main`
